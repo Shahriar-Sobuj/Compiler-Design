@@ -1,0 +1,3 @@
+CFLAGS= -g -O2
+
+OBJS=code.o
